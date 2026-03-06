@@ -20,7 +20,7 @@ A demo video is included in the repository showing:
 - Copying passwords  
 - Opening websites directly  
 
-![Password Manager Preview](Password_Manager_Preview)
+![Password Manager Preview](imagesAndGifs/Passwordmanager.gif)
 
 ---
 
@@ -101,13 +101,13 @@ Reduces exposure and typing errors.
 
 ## Adding Credentials
 
-![Add Credentials](Password_Manager_page2)
+![Add Credentials](imagesAndGifs/page%201.jpg)
 
 ---
 
 ## Editing Entries
 
-![Edit Entries](Password_Manager_page2)
+![Edit Entries](imagesAndGifs/page%202.jpg)
 
 ---
 
